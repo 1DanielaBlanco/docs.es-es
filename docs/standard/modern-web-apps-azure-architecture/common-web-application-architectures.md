@@ -85,7 +85,7 @@ Cuando aumenten las necesidades de la aplicación, se pueden necesitar solucione
 
 **Figura 5-5.** Implementación de una aplicación web en Azure App Service
 
-Internamente, la organización de este proyecto en varios en función de la responsabilidad mejora la facilidad de mantenimiento de la aplicación.
+Internamente, esta organización de proyectos dentro de múltiples proyectos basado en la responsabilidad, mejora la capacidad de mantenimiento de la aplicación.
 
 Esta unidad se puede escalar vertical u horizontalmente para aprovechar la escalabilidad a petición basada en la nube. El escalado vertical significa agregar más CPU, memoria, espacio en disco u otros recursos al servidor en el que se hospeda la aplicación. El escalado horizontal significa agregar instancias adicionales de estos servidores, con independencia de que sean servidores físicos, máquinas virtuales o contenedores. Cuando la aplicación se hospeda en varias instancias, se usa un equilibrador de carga para asignar solicitudes a instancias individuales de la aplicación.
 
