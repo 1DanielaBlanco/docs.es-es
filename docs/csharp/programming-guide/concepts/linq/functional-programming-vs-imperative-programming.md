@@ -46,7 +46,7 @@ Este tema compara y contrasta la programación funcional y la programación impe
   
  Para solucionar problemas, los desarrolladores de OOP diseñan jerarquías de clases, se centran en la correcta encapsulación y piensan en términos de contratos de clase. El comportamiento y el estado de los tipos de objetos son de vital importancia y las características del lenguaje, como las clases, las interfaces, la herencia y el polimorfismo se proporcionan para tratar estas preocupaciones.  
   
- Por el contrario, la programación funcional considera los problemas de cálculo como un ejercicio de evaluación de transformaciones funcionales puras de recopilaciones de datos. La programación funcional evita datos mutables y de estado, y pone de relieve, en su lugar, la aplicación de las funciones.  
+ Por el contrario, la programación funcional considera los problemas de cálculo como un ejercicio de evaluación de transformaciones funcionales puras de recopilaciones de datos. La programación funcional evita datos mutables y de estado, y en cambio enfatiza la aplicación de funciones.  
   
  Afortunadamente, C# no requiere un salto completo a la programación funcional, ya que admite enfoques de programación imperativos y funcionales. Un desarrollador puede elegir el enfoque más adecuado para una escenario específico. En realidad, los programas suelen combinar ambos enfoques.  
   
